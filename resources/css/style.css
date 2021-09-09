@@ -1,0 +1,36 @@
+body {
+background: black;
+text-align: center;
+}
+header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: white;
+}
+.link a{
+font-size: 16px;
+color: aquamarine;
+}
+.link {
+    margin: 20px;
+}
+h2, footer p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+main p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: grey;
+}
+main {
+    margin-bottom: 20px;
+}
+.copy {
+    color: grey;
+    text-align: right;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
